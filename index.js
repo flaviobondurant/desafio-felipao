@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let NomeHerói = "Pulga Voadora"
 let NivelHerói = 5000
 
