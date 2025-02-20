@@ -12,7 +12,7 @@ class heroi{
         }
 
     ataque(){
-            if (this.tipo = "Mago")
+            if (tipo = "Mago")
                 ataque = "Magia";
         }
 
