@@ -1,7 +1,7 @@
 
 
 
-calcularNivel(20, 10);
+calcularNivel(2000, 10);
 
 
 
